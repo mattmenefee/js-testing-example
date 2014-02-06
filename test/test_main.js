@@ -13,6 +13,9 @@ requirejs.config({
   baseUrl: '/base/app',
 
   paths: {
+    'lib': '../lib',
+    'jquery': '../lib/jquery/jquery',
+    'underscore': '../lib/lodash/dist/lodash',
   },
 
   shim: {
