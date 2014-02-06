@@ -2,3 +2,4 @@
 
 ## Installation
 	* install node (and npm)
+	* install karma - run `npm install`

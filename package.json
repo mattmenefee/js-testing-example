@@ -1,0 +1,16 @@
+{
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/clalimarmo/js-testing-example"
+  },
+  "description": "javascript project with testing via karma",
+  "devDependencies": {
+    "karma": "~0.11.14",
+    "mocha": "~1.17.1",
+    "karma-mocha": "~0.1.1",
+    "requirejs": "~2.1.10",
+    "karma-requirejs": "~0.2.1",
+    "karma-phantomjs-launcher": "~0.1.2"
+  }
+}
