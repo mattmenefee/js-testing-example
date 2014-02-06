@@ -1,0 +1,25 @@
+{
+  "name": "js-testing-example",
+  "version": "0.0.0",
+  "authors": [
+    "Carlos Lalimarmo <clalimarmo@gmail.com>"
+  ],
+  "description": "example js app with tests",
+  "main": "app/main.js",
+  "license": "MIT",
+  "homepage": "http://github.com/clalimarmo/js-testing-example",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "lodash": "~2.4.1",
+    "backbone": "~1.1.0"
+  }
+}
