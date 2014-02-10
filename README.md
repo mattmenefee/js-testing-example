@@ -3,16 +3,21 @@
 ## Installation
 
 * install node (and npm)
-* install karma and its dependencies - run `npm install`
-* install bower - run `npm install -g bower`
+* install the dependencies - run `npm install`
 * fetch third party js libraries - run `bower install`
 
 ## Running the Tests
 
-	karma start
+	$ karma start
+
+## Running Grunt
+
+with default task (jshint and karma watch)
+
+	$ grunt
 
 ## Running the "App"
 
 with python2:
 
-	cd app && python -m SimpleHTTPServer
+	$ cd app && python -m SimpleHTTPServer

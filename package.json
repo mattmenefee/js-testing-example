@@ -2,7 +2,7 @@
   "version": "0.0.0",
   "repository": {
     "type": "git",
-    "url": "http://github.com/clalimarmo/js-testing-example"
+    "url": ""
   },
   "description": "javascript project with testing via karma",
   "devDependencies": {
@@ -12,6 +12,13 @@
     "requirejs": "~2.1.10",
     "karma-requirejs": "~0.2.1",
     "karma-phantomjs-launcher": "~0.1.2",
-    "karma-chai": "0.0.2"
+    "karma-chai": "0.0.2",
+    "grunt": "~0.4.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-karma": "~0.7.2",
+    "bower": "~1.2.8"
   }
 }
