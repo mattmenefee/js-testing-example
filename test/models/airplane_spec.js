@@ -1,5 +1,3 @@
-'use strict';
-
 define(['models/airplane'], function(Airplane) {
 
   describe('Airplane', function() {

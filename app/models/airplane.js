@@ -1,5 +1,3 @@
-'use strict';
-
 define(
   [
     'lib/backbone-amd/backbone',

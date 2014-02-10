@@ -7,7 +7,7 @@ define(
   function($, AirplanesCollection, AirplanesView) {
     $(function() {
       var airplanes = new AirplanesCollection();
-      var index = new AirplanesView({
+      new AirplanesView({
         el: $('#app'),
         collection: airplanes,
       });
